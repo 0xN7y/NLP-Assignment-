@@ -1,5 +1,5 @@
 
-This repository for ssignment submition on Basic and intermediate NLP operations like text preprocessing, tokenization, named entity recognition (NER), and vectorization using TF-IDF and CountVectorizer.
+This repository for Assignment submition on Basic and intermediate NLP operations like text preprocessing, tokenization, named entity recognition (NER), and vectorization using TF-IDF and CountVectorizer.
 
 ## Tasks
 
